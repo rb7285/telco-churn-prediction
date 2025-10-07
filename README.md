@@ -175,10 +175,6 @@ Telco-Churn-Prediction/
 │   ├── model.pkl
 │   └── app.py  (Flask API)
 │
-├── visuals/
-│   ├── churn_by_contract.html
-│   └── churn_by_tenure.html
-│
 ├── README.md
 └── requirements.txt
 ```
@@ -189,7 +185,9 @@ Telco-Churn-Prediction/
 
 **Ritesh Bhadane**
 Aspiring Data Scientist | AI/ML | Passionate about Generative AI & Predictive Modeling
+
 📧 Email: [[bhadane009@gmail.com](mailto:bhadane009@gmail.com)]
+
 🌐 GitHub: [github.com/rb7285](https://github.com/rb7285)
 
 ---
@@ -197,10 +195,16 @@ Aspiring Data Scientist | AI/ML | Passionate about Generative AI & Predictive Mo
 ## 🏁 Conclusion
 
 This project demonstrates:
+
 ✅ Strong understanding of data preprocessing & model building
+
 ✅ Practical experience with ML and Neural Networks in PyTorch
+
 ✅ Ability to visualize insights through interactive dashboards
+
 ✅ API deployment skills for ML integration
+
 ✅ SQL and REST API knowledge
 
 > “Turning data into decisions through interpretable machine learning.”
+
