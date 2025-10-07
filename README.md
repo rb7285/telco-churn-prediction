@@ -166,14 +166,16 @@ Connected the dataset to **MS SQL / MySQL** using `SQLAlchemy` for:
 Telco-Churn-Prediction/
 │
 ├── data/
+│   ├── churn_final.csv
 │   └── telco_churn.csv
 │
 ├── notebooks/
-│   └── Telco_Churn_Analysis.ipynb
+│   ├── telco_churn_ml.ipynb
+│   └── plotly_visualizations.ipynb
 │
 ├── app/
-│   ├── model.pkl
-│   └── app.py  (Flask API)
+│   ├── churn_model.pkl
+│   └── apis.py       # Flask API endpoints
 │
 ├── README.md
 └── requirements.txt
@@ -207,4 +209,5 @@ This project demonstrates:
 ✅ SQL and REST API knowledge
 
 > “Turning data into decisions through interpretable machine learning.”
+
 
